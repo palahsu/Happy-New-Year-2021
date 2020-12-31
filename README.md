@@ -28,14 +28,15 @@ It's modified. You Can also modified it.
 ## By @palahsu
 
 
-For any kind of help, support, suggetion and request ask in my Telegram Group :
-https://t.me/AD0000000
+For any kind of help, support, making project, payment, suggestion and request just ask me on Telegram:
+
+<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
 ## Follow on:
 <p align="left">
 <a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
-<a href="https://twitter.com/palahsu"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
-<a href="https://facebook.com/Aduri.knox"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p><p align="left">
+<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+</p><p align="left"> 
