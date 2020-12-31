@@ -8,7 +8,7 @@ It's modified. You Can also modified it.
 
 ## 2020 All Tools (LINUX & WINDOWS & MAC) by @palahsu!
 
-### Anonymously Hiding Tools
+### 2020 All Tools (LINUX & WINDOWS & MAC)
 - [MBomb](https://github.com/palahsu/MBomb)
 - [WhatsPy](https://github.com/palahsu/WhatsPy)
 - [ShortURL](https://github.com/palahsu/shortURL)
@@ -24,3 +24,18 @@ It's modified. You Can also modified it.
 - [Screen-Capture](https://github.com/palahsu/Screen-Capture)
 - [DigiRecogniton](https://github.com/palahsu/DigiRecognition)
 - [Face-Recognition-Pro](https://github.com/palahsu/Face-Recognition-Pro)
+
+## By @palahsu
+
+
+For any kind of help, support, suggetion and request ask in my Telegram Group :
+https://t.me/AD0000000
+
+## Follow on:
+<p align="left">
+<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left">
+<a href="https://twitter.com/palahsu"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+</p><p align="left">
+<a href="https://facebook.com/Aduri.knox"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p><p align="left">
