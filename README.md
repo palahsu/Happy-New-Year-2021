@@ -8,4 +8,5 @@ It's modified. You Can also modified it.
 
 ## 2020 All Tools (LINUX & WINDOWS & MAC) by @palahsu!
 
-## ![DDoS Ripper](https://github.com/palahsu/DDoS-Ripper)
+### Anonymously Hiding Tools
+- [DDoS Ripper](https://github.com/palahsu/DDoS-Ripper)
