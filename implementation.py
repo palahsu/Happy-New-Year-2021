@@ -2,7 +2,13 @@ import zlib
 import base64
 import time
 from itertools import zip_longest, cycle, chain, repeat
+import pygame
 import os
+
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
+
+
+SOUND_FILE_NAME = 'sound.mp3' # Pass None to disable
 
 CITY = """
 
@@ -57,6 +63,13 @@ BANNER = r"""
 """
 
 COLOURS = {"R": 91, "G": 92, "B": 94, "Y": 93, None: 0}
+
+
+if SOUND_FILE_NAME and os.path.exists(SOUND_FILE_NAME):
+    pygame.mixer.init()
+    pygame.mixer.music.load(SOUND_FILE_NAME)
+    pygame.mixer.music.play()
+
 
 if os.name == "nt":
     import ctypes
